@@ -1,2 +1,4 @@
 # acdocktest
-Test accelerator with a custom Docker image
+
+Test accelerator with a custom Docker image.
+
